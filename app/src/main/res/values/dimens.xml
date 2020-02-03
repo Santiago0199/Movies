@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="veinte_sp">20sp</dimen>
+    <dimen name="quince_dp">15dp</dimen>
+    <dimen name="dieciocho_sp">18sp</dimen>
+    <dimen name="once_dp">11dp</dimen>
+    <dimen name="quince_sp">15sp</dimen>
+    <dimen name="dieciseis_sp">16sp</dimen>
+    <dimen name="cinco_dp">5dp</dimen>
+    <dimen name="ocho_do">8dp</dimen>
+    <dimen name="cuatro_dp">4dp</dimen>
+</resources>
